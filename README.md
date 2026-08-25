@@ -1,7 +1,7 @@
 # The Basics of GitHub 
 My name is Jeffrey Carrano.
-* * Apple *  
-* ** Banana **
+* *Apple*  
+* **Banana**
 * `echo "Hello world!"`
 
 ## 🤓 Course overview and learning outcomes 
